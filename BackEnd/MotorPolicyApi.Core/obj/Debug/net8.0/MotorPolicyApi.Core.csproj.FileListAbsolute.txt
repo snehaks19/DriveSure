@@ -1,0 +1,48 @@
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Core.deps.json
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Core.dll
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Core.pdb
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.AssemblyInfoInputs.cache
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.AssemblyInfo.cs
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.csproj.CoreCompileInputs.cache
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.dll
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\refint\MotorPolicyApi.Core.dll
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.pdb
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\ref\MotorPolicyApi.Core.dll
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.csproj.AssemblyReference.cache
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Domain.dll
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Domain.pdb
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPol.2FF6D768.Up2Date
+D:\Works\Motor Policy Project\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.sourcelink.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Core.deps.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Core.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Core.pdb
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Domain.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Domain.pdb
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.csproj.AssemblyReference.cache
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.AssemblyInfoInputs.cache
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.AssemblyInfo.cs
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.csproj.CoreCompileInputs.cache
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.sourcelink.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPol.2FF6D768.Up2Date
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\refint\MotorPolicyApi.Core.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.pdb
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi.Core\obj\Debug\net8.0\ref\MotorPolicyApi.Core.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Core.deps.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Core.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Core.pdb
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Domain.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\bin\Debug\net8.0\MotorPolicyApi.Domain.pdb
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.csproj.AssemblyReference.cache
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.AssemblyInfoInputs.cache
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.AssemblyInfo.cs
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.csproj.CoreCompileInputs.cache
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.sourcelink.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPol.2FF6D768.Up2Date
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\refint\MotorPolicyApi.Core.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\MotorPolicyApi.Core.pdb
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Core\obj\Debug\net8.0\ref\MotorPolicyApi.Core.dll

@@ -1,0 +1,134 @@
+[
+  {
+    "ContainingType": "MotorPolicyApi.Controllers.MotorPolicyController",
+    "Method": "SavePolicy",
+    "RelativePath": "api/MotorPolicy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "policy",
+        "Type": "MotorPolicyApi.Core.Dtos.MotorPolicyDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotorPolicyApi.Controllers.MotorPolicyController",
+    "Method": "UpdatePolicy",
+    "RelativePath": "api/MotorPolicy",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "policy",
+        "Type": "MotorPolicyApi.Core.Dtos.MotorPolicyDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotorPolicyApi.Controllers.MotorPolicyController",
+    "Method": "DeletePolicy",
+    "RelativePath": "api/MotorPolicy/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "polUid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotorPolicyApi.Controllers.MotorPolicyController",
+    "Method": "GetPolicy",
+    "RelativePath": "api/MotorPolicy/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "policyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotorPolicyApi.Controllers.UserMasterController",
+    "Method": "SaveUser",
+    "RelativePath": "api/UserMaster",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userdto",
+        "Type": "MotorPolicyApi.Core.Dtos.UserMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotorPolicyApi.Controllers.UserMasterController",
+    "Method": "GetUser",
+    "RelativePath": "api/UserMaster",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotorPolicyApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MotorPolicyApi.WeatherForecast, MotorPolicyApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

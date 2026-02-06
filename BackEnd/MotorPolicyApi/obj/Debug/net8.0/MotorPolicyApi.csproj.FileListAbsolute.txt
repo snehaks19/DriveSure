@@ -1,0 +1,240 @@
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\appsettings.json
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.staticwebassets.endpoints.json
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.exe
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.deps.json
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.runtimeconfig.json
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.pdb
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.csproj.AssemblyReference.cache
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.AssemblyInfoInputs.cache
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.AssemblyInfo.cs
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.csproj.CoreCompileInputs.cache
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\scopedcss\bundle\MotorPolicyApi.styles.css
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPol.E90AD619.Up2Date
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\refint\MotorPolicyApi.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.pdb
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.genruntimeconfig.cache
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\ref\MotorPolicyApi.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Core.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Domain.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Infrastructure.dll
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Core.pdb
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Infrastructure.pdb
+D:\Works\Motor Policy Project\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Domain.pdb
+D:\Works\Motor Policy Project\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.sourcelink.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\appsettings.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.staticwebassets.endpoints.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.exe
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.deps.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.runtimeconfig.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.pdb
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Core.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Domain.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Infrastructure.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Core.pdb
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Infrastructure.pdb
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Domain.pdb
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.csproj.AssemblyReference.cache
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.AssemblyInfoInputs.cache
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.AssemblyInfo.cs
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.csproj.CoreCompileInputs.cache
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.sourcelink.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\scopedcss\bundle\MotorPolicyApi.styles.css
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPol.E90AD619.Up2Date
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\refint\MotorPolicyApi.dll
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.pdb
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.genruntimeconfig.cache
+D:\Works\SAMPLE\Motor-Insurance-Portal-\MotorPolicyApi\obj\Debug\net8.0\ref\MotorPolicyApi.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\appsettings.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.staticwebassets.endpoints.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.exe
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.deps.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.runtimeconfig.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.pdb
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Core.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Domain.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Infrastructure.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Core.pdb
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Infrastructure.pdb
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Domain.pdb
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.csproj.AssemblyReference.cache
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.AssemblyInfoInputs.cache
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.AssemblyInfo.cs
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.csproj.CoreCompileInputs.cache
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.sourcelink.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\scopedcss\bundle\MotorPolicyApi.styles.css
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPol.E90AD619.Up2Date
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\refint\MotorPolicyApi.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.pdb
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.genruntimeconfig.cache
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\ref\MotorPolicyApi.dll

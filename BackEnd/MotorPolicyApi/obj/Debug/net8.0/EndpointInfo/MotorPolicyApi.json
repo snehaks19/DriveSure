@@ -1,0 +1,367 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MotorPolicyApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/MotorPolicy": {
+      "post": {
+        "tags": [
+          "MotorPolicy"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MotorPolicyDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MotorPolicyDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/MotorPolicyDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "MotorPolicy"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MotorPolicyDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MotorPolicyDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/MotorPolicyDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MotorPolicy/{id}": {
+      "delete": {
+        "tags": [
+          "MotorPolicy"
+        ],
+        "parameters": [
+          {
+            "name": "polUid",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "MotorPolicy"
+        ],
+        "parameters": [
+          {
+            "name": "policyId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/UserMaster": {
+      "post": {
+        "tags": [
+          "UserMaster"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserMasterDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserMasterDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserMasterDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "UserMaster"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "password",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "MotorPolicyDto": {
+        "type": "object",
+        "properties": {
+          "polUid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "polNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "polIssDt": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "polFmDt": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "polToDt": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "polAssrName": {
+            "type": "string",
+            "nullable": true
+          },
+          "polAssrMobile": {
+            "type": "string",
+            "nullable": true
+          },
+          "polCurrCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "polGrossFcPrem": {
+            "type": "number",
+            "format": "double"
+          },
+          "polGrossLcPrem": {
+            "type": "number",
+            "format": "double"
+          },
+          "polVehMake": {
+            "type": "string",
+            "nullable": true
+          },
+          "polVehModel": {
+            "type": "string",
+            "nullable": true
+          },
+          "polVehChassisNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "polVehEngineNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "polVehRegnNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "polVehValue": {
+            "type": "number",
+            "format": "double"
+          },
+          "polApprStatus": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserMasterDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "nullable": true
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "type": {
+            "type": "string",
+            "nullable": true
+          },
+          "createdBy": {
+            "type": "string",
+            "nullable": true
+          },
+          "createdOn": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "updatedBy": {
+            "type": "string",
+            "nullable": true
+          },
+          "updatedOn": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
