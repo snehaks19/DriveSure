@@ -1,0 +1,31 @@
+
+<div class="container-fluid">
+
+  <form [formGroup]="loginForm" (ngSubmit)="login()">
+    <h1>Login</h1>
+
+    <div>
+      <label>User ID</label>
+      <input type="text" placeholder="User ID" class="form-control" name="userId" formControlName='userId' [ngClass]="{'is-invalid':submit && f.userId.errors}" />
+      <div *ngIf="submit && f.userId.errors" class="invalid-feedback">
+      <div *ngIf="f.userId.errors.required" >
+        User Id is required
+      </div>
+      </div>
+    </div>
+
+    <div>
+      <label>Password</label>
+      <input type="text" placeholder="Password" class="form-control" name="password" formControlName='password' [ngClass]="{'is-invalid':submit && f.password.errors}" />
+      <div *ngIf="submit && f.password.errors" class="invalid-feedback">
+      <div *ngIf="f.password.errors.required">
+        Password is required
+      </div>
+      </div>
+    </div>
+
+    <div>
+      <button type="submit" class="btn btn-success">Submit</button>
+    </div>
+  </form>
+</div>

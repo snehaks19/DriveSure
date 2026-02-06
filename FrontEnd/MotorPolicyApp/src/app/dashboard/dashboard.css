@@ -1,0 +1,61 @@
+/* Full background image */
+.dashboard-bg {
+  height: 100vh;
+  width: 100%;
+  background-image: url('/assets/dashboard.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Dark overlay for readability */
+.overlay {
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  /* 👇 Title at top */
+  justify-content: flex-start;
+  /* center cards horizontally */
+  align-items: center;
+  padding-top: 40px;
+}
+
+
+/* Title */
+.title {
+  color: darkblue;
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+/* Card container */
+.card-container {
+  display: flex;
+  gap: 40px;
+}
+
+/* Glass effect cards */
+.card {
+  width: 240px;
+  padding: 30px;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.20);
+  backdrop-filter: blur(8px);
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.card h2{
+    color:darkblue;
+}
+.card p{
+    color:black;
+}
+  .card:hover {
+    transform: scale(1.08);
+    background: rgba(255, 255, 255, 0.25);
+  }

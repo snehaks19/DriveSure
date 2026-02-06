@@ -1,0 +1,28 @@
+<div class="dashboard-bg">
+
+  <div class="overlay">
+    <div>
+      <h1 class="title">Motor Insurance Dashboard</h1>
+    </div>
+    <div class="card-container">
+
+      <div *ngIf="userType === 'S'" class="card" (click)="goToSurvey()">
+        <h2>Survey</h2>
+        <p>Manage surveys</p>
+
+      </div>
+      <div class="card" (click)="goToPolicy()" *ngIf="userType==='U'">
+        <h2>Policy</h2>
+        <p>Manage insurance policies</p>
+      </div>
+
+      <div class="card" (click)="goToClaim()" *ngIf="userType==='U'">
+        <h2>Claim</h2>
+        <p>Handle insurance claims</p>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
