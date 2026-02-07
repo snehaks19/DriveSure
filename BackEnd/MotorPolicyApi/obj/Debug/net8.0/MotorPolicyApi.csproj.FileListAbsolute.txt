@@ -238,3 +238,5 @@ D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0
 D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.pdb
 D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\MotorPolicyApi.genruntimeconfig.cache
 D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\obj\Debug\net8.0\ref\MotorPolicyApi.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Shared.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi\bin\Debug\net8.0\MotorPolicyApi.Shared.pdb

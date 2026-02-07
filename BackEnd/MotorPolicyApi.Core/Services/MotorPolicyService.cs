@@ -21,17 +21,17 @@ namespace MotorPolicyApi.Core.Services
         {
             var entity = new MotorPolicy
             {
-                PolUid = dto.PolUid,
-                PolNo = dto.PolNo,
-                PolFmDt = dto.PolFmDt,
-                PolToDt = dto.PolToDt,
-                PolAssrName = dto.PolAssrName,
-                PolAssrMobile = dto.PolAssrMobile,
-                PolVehMake = dto.PolVehMake,
-                PolVehModel = dto.PolVehModel,
-                PolVehRegnNo = dto.PolVehRegnNo,
-                PolVehValue = dto.PolVehValue,
-                PolGrossLcPrem = dto.PolGrossLcPrem,
+                PolNo = dto.polNo,
+                PolFmDt = dto.fromDate,
+                PolToDt = dto.toDate,
+                PolAssrName = dto.name,
+                PolAssrMobile = dto.mobile,
+                PolVehMake = dto.vehMake,
+                PolVehModel = dto.vehModel,
+                PolVehRegnNo = dto.regNo,
+                PolVehValue = dto.vehValue,
+                PolGrossFcPrem = dto.fcPremium,
+                PolGrossLcPrem = dto.lcPremium,
 
                 // system-controlled fields
                 PolApprStatus = "N",
@@ -45,14 +45,14 @@ namespace MotorPolicyApi.Core.Services
         }
         public async Task UpdatePolicy(MotorPolicyDto dto)
         {
-            var entity = await _motorPolicyRep.GetPolicy(dto.PolUid)
+            var entity = await _motorPolicyRep.GetPolicy(dto.polUid)
                 ?? throw new Exception("Policy not found");
 
 
-            entity.PolAssrName = dto.PolAssrName;
-            entity.PolAssrMobile = dto.PolAssrMobile;
-            entity.PolVehValue = dto.PolVehValue;
-            entity.PolGrossLcPrem = dto.PolGrossLcPrem;
+            entity.PolAssrName = dto.name;
+            entity.PolAssrMobile = dto.mobile;
+            entity.PolVehValue = dto.vehValue;
+            entity.PolGrossLcPrem = dto.lcPremium;
 
             entity.PolUpBy = "SNEHA";
             entity.PolUpDt = DateTime.Now;
@@ -63,7 +63,7 @@ namespace MotorPolicyApi.Core.Services
         // APPROVE
         public async Task ApprovePolicy(MotorPolicyDto policy)
         {
-            var entity = await _motorPolicyRep.GetPolicy(policy.PolUid)
+            var entity = await _motorPolicyRep.GetPolicy(policy.polUid)
                 ?? throw new Exception("Policy not found");
 
             if (entity.PolApprStatus != "N")

@@ -44,8 +44,10 @@ namespace MotorPolicyApi.Infrastructure.Data
                 entity.Property(e => e.CmCrDt).HasColumnName("CM_CR_DT");
                 entity.Property(e => e.CmUpBy).HasColumnName("CM_UP_BY");
                 entity.Property(e => e.CmUpDt).HasColumnName("CM_UP_DT");
+                entity.Property(e => e.CmParentCode).HasColumnName("CM_PARENT_CODE");
                 entity.Property(e => e.CmActiveYn).HasColumnName("CM_ACTIVE_YN");
             });
+
 
             // =========================
             // ERROR_CODE_MASTER

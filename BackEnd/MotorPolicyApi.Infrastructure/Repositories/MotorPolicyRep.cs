@@ -4,6 +4,7 @@ using MotorPolicyApi.Domain.Interfaces;
 using MotorPolicyApi.Infrastructure.Data;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,6 +21,7 @@ namespace MotorPolicyApi.Infrastructure.Repositories
 
         public async Task<int> SavePolicy(MotorPolicy entity)
         {
+            entity.PolUid = 2;
             await _dbContext.MotorPolicies.AddAsync(entity);
             var rows=await _dbContext.SaveChangesAsync();
             return rows;

@@ -5,6 +5,92 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/CodesMaster/{type}/list": {
+      "get": {
+        "tags": [
+          "CodesMaster"
+        ],
+        "parameters": [
+          {
+            "name": "type",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CodesMaster"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CodesMaster"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CodesMaster"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/CodesMaster/{type}/{parent}/list": {
+      "get": {
+        "tags": [
+          "CodesMaster"
+        ],
+        "parameters": [
+          {
+            "name": "type",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "parent",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CodesMaster"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CodesMaster"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CodesMaster"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/MotorPolicy": {
       "post": {
         "tags": [
@@ -222,6 +308,55 @@
   },
   "components": {
     "schemas": {
+      "CodesMaster": {
+        "type": "object",
+        "properties": {
+          "cmCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "cmType": {
+            "type": "string",
+            "nullable": true
+          },
+          "cmDesc": {
+            "type": "string",
+            "nullable": true
+          },
+          "cmValue": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "cmCrBy": {
+            "type": "string",
+            "nullable": true
+          },
+          "cmParentCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "cmCrDt": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "cmUpBy": {
+            "type": "string",
+            "nullable": true
+          },
+          "cmUpDt": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "cmActiveYn": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "MotorPolicyDto": {
         "type": "object",
         "properties": {
@@ -233,68 +368,64 @@
             "type": "string",
             "nullable": true
           },
-          "polIssDt": {
+          "issueDate": {
             "type": "string",
             "format": "date-time",
             "nullable": true
           },
-          "polFmDt": {
+          "fromDate": {
             "type": "string",
             "format": "date-time",
             "nullable": true
           },
-          "polToDt": {
+          "toDate": {
             "type": "string",
             "format": "date-time",
             "nullable": true
           },
-          "polAssrName": {
+          "name": {
             "type": "string",
             "nullable": true
           },
-          "polAssrMobile": {
+          "mobile": {
             "type": "string",
             "nullable": true
           },
-          "polCurrCode": {
+          "currency": {
             "type": "string",
             "nullable": true
           },
-          "polGrossFcPrem": {
+          "fcPremium": {
             "type": "number",
             "format": "double"
           },
-          "polGrossLcPrem": {
+          "lcPremium": {
             "type": "number",
             "format": "double"
           },
-          "polVehMake": {
+          "vehMake": {
             "type": "string",
             "nullable": true
           },
-          "polVehModel": {
+          "vehModel": {
             "type": "string",
             "nullable": true
           },
-          "polVehChassisNo": {
+          "chassisNo": {
             "type": "string",
             "nullable": true
           },
-          "polVehEngineNo": {
+          "engineNo": {
             "type": "string",
             "nullable": true
           },
-          "polVehRegnNo": {
+          "regNo": {
             "type": "string",
             "nullable": true
           },
-          "polVehValue": {
+          "vehValue": {
             "type": "number",
             "format": "double"
-          },
-          "polApprStatus": {
-            "type": "string",
-            "nullable": true
           }
         },
         "additionalProperties": false

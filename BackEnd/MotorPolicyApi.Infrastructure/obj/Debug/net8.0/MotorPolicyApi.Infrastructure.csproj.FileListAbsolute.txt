@@ -46,3 +46,7 @@ D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Infrastructure\o
 D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Infrastructure\obj\Debug\net8.0\refint\MotorPolicyApi.Infrastructure.dll
 D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Infrastructure\obj\Debug\net8.0\MotorPolicyApi.Infrastructure.pdb
 D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Infrastructure\obj\Debug\net8.0\ref\MotorPolicyApi.Infrastructure.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Infrastructure\bin\Debug\net8.0\MotorPolicyApi.Core.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Infrastructure\bin\Debug\net8.0\MotorPolicyApi.Shared.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Infrastructure\bin\Debug\net8.0\MotorPolicyApi.Core.pdb
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Infrastructure\bin\Debug\net8.0\MotorPolicyApi.Shared.pdb

@@ -559,7 +559,8 @@
       },
       "MotorPolicyApi.Domain/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
+          "MotorPolicyApi.Shared": "1.0.0"
         },
         "runtime": {
           "MotorPolicyApi.Domain.dll": {
@@ -572,10 +573,20 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
-          "MotorPolicyApi.Domain": "1.0.0"
+          "MotorPolicyApi.Core": "1.0.0",
+          "MotorPolicyApi.Domain": "1.0.0",
+          "MotorPolicyApi.Shared": "1.0.0"
         },
         "runtime": {
           "MotorPolicyApi.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MotorPolicyApi.Shared/1.0.0": {
+        "runtime": {
+          "MotorPolicyApi.Shared.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1020,6 +1031,11 @@
       "sha512": ""
     },
     "MotorPolicyApi.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MotorPolicyApi.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

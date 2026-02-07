@@ -1,6 +1,8 @@
-﻿using MotorPolicyApi.Core.Interfaces;
+﻿using MotorPolicyApi.Core.Dtos;
+using MotorPolicyApi.Core.Interfaces;
 using MotorPolicyApi.Domain.Entities;
 using MotorPolicyApi.Domain.Interfaces;
+using MotorPolicyApi.Shared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,10 +20,13 @@ namespace MotorPolicyApi.Core.Services
             _repository = repository;
         }
 
-        //public async Task<IEnumerable<CodesMaster>> GetAllAsync()
-        //{
-        //    // Business logic can come here later
-        //    return await _repository.GetAllAsync();
-        //}
+        public async Task<List<DropDownDto>> GetDropDown(string type)
+        {
+            return await _repository.GetDropDown(type);
+        }
+        public async Task<List<DropDownDto>> GetDropDown(string type, string parent)
+        {
+            return await _repository.GetDropDown(type, parent);
+        }
     }
 }

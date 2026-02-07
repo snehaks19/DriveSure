@@ -13,8 +13,9 @@ namespace MotorPolicyApi.Domain.Entities
         public string? CmDesc { get; set; }
         public decimal? CmValue { get; set; }
         public string? CmCrBy { get; set; }
+        public string CmParentCode { get; set; }
         public DateTime? CmCrDt { get; set; }
-        public string? CmUpBy { get; set; }
+        public string? CmUpBy { get; set; } 
         public DateTime? CmUpDt { get; set; }
         public string CmActiveYn { get; set; } = "Y";
     }

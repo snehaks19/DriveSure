@@ -961,6 +961,16 @@
             "rid": "win"
           }
         }
+      },
+      "MotorPolicyApi.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MotorPolicyApi.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MotorPolicyApi.Shared.dll": {}
+        }
       }
     }
   },
@@ -2652,11 +2662,17 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "MotorPolicyApi.Shared/1.0.0": {
+      "type": "project",
+      "path": "../MotorPolicyApi.Shared/MotorPolicyApi.Shared.csproj",
+      "msbuildProject": "../MotorPolicyApi.Shared/MotorPolicyApi.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
+      "MotorPolicyApi.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2690,7 +2706,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Works\\Projects\\Motor Insurance Portal\\BackEnd\\MotorPolicyApi.Shared\\MotorPolicyApi.Shared.csproj": {
+              "projectPath": "D:\\Works\\Projects\\Motor Insurance Portal\\BackEnd\\MotorPolicyApi.Shared\\MotorPolicyApi.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

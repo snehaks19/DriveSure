@@ -1,5 +1,62 @@
 [
   {
+    "ContainingType": "MotorPolicyApi.Controllers.CodesMasterController",
+    "Method": "GetDropdown",
+    "RelativePath": "api/CodesMaster/{type}/{parent}/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "parent",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MotorPolicyApi.Domain.Entities.CodesMaster",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MotorPolicyApi.Controllers.CodesMasterController",
+    "Method": "GetDropdown",
+    "RelativePath": "api/CodesMaster/{type}/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MotorPolicyApi.Domain.Entities.CodesMaster",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "MotorPolicyApi.Controllers.MotorPolicyController",
     "Method": "SavePolicy",
     "RelativePath": "api/MotorPolicy",

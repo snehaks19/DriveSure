@@ -37,3 +37,6 @@ D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Domain\obj\Debug
 D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Domain\obj\Debug\net8.0\refint\MotorPolicyApi.Domain.dll
 D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Domain\obj\Debug\net8.0\MotorPolicyApi.Domain.pdb
 D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Domain\obj\Debug\net8.0\ref\MotorPolicyApi.Domain.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Domain\bin\Debug\net8.0\MotorPolicyApi.Shared.dll
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Domain\bin\Debug\net8.0\MotorPolicyApi.Shared.pdb
+D:\Works\Projects\Motor Insurance Portal\BackEnd\MotorPolicyApi.Domain\obj\Debug\net8.0\MotorPol.D1352AE5.Up2Date

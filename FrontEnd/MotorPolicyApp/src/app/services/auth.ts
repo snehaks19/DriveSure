@@ -10,7 +10,6 @@ export class Auth {
   private apiUrl = 'https://localhost:7254/api/usermaster';
 
   login(userId: string, password: string) {
-    console.log(userId, password);
     return this.http.get(
       `https://localhost:7254/api/usermaster?userId=${userId}&password=${password}`
     );

@@ -554,10 +554,19 @@
       },
       "MotorPolicyApi.Domain/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
+          "MotorPolicyApi.Shared": "1.0.0"
         },
         "runtime": {
           "MotorPolicyApi.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MotorPolicyApi.Shared/1.0.0": {
+        "runtime": {
+          "MotorPolicyApi.Shared.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -950,6 +959,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "MotorPolicyApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MotorPolicyApi.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -4,9 +4,8 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\policy",
-    "\\src\\app\\services",
-    "\\src\\app\\survey"
+    "\\src\\app\\services"
   ],
-  "SelectedNode": "\\src\\app\\policy\\policy.html",
+  "SelectedNode": "\\src\\app\\policy\\policy.ts",
   "PreviewInSolutionExplorer": false
 }

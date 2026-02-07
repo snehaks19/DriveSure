@@ -966,13 +966,24 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
+          "MotorPolicyApi.Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MotorPolicyApi.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/MotorPolicyApi.Domain.dll": {}
+        }
+      },
+      "MotorPolicyApi.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MotorPolicyApi.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MotorPolicyApi.Shared.dll": {}
         }
       }
     }
@@ -2670,6 +2681,11 @@
       "type": "project",
       "path": "../MotorPolicyApi.Domain/MotorPolicyApi.Domain.csproj",
       "msbuildProject": "../MotorPolicyApi.Domain/MotorPolicyApi.Domain.csproj"
+    },
+    "MotorPolicyApi.Shared/1.0.0": {
+      "type": "project",
+      "path": "../MotorPolicyApi.Shared/MotorPolicyApi.Shared.csproj",
+      "msbuildProject": "../MotorPolicyApi.Shared/MotorPolicyApi.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {

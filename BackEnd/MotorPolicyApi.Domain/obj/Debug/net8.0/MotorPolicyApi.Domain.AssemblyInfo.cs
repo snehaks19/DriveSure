@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotorPolicyApi.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be9c623930b93857e93defc6300817e4ed562283")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec3c647352761dc7f51dce6aad664be5a5356460")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotorPolicyApi.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotorPolicyApi.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

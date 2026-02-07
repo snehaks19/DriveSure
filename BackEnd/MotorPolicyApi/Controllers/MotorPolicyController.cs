@@ -18,6 +18,7 @@ namespace MotorPolicyApi.Controllers
         [HttpPost]
         public async Task<IActionResult> SavePolicy(MotorPolicyDto policy)
         {
+            Console.WriteLine("POST API HIT ✅");
             await _service.SavePolicy(policy);
             return Ok("Policy Saved Successfully");
         }

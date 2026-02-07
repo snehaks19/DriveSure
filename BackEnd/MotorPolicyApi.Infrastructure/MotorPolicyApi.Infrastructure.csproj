@@ -12,7 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MotorPolicyApi.Core\MotorPolicyApi.Core.csproj" />
     <ProjectReference Include="..\MotorPolicyApi.Domain\MotorPolicyApi.Domain.csproj" />
+    <ProjectReference Include="..\MotorPolicyApi.Shared\MotorPolicyApi.Shared.csproj" />
   </ItemGroup>
 
 </Project>
