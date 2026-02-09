@@ -27,13 +27,10 @@ export class Policy implements OnInit {
 
     this.setUpDates();
     this.loadDropdowns();
-    this.loadGrid();
   }
 
-  loadGrid() {
-    this.policyService.getPolicies().subscribe({res=})
-  }
 
+  
   onSubmit() {
 
     const formData = this.policyForm.value;
