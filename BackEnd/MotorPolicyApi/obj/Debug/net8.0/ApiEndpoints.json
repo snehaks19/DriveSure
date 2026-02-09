@@ -118,16 +118,21 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "policyId",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
         "Name": "id",
-        "Type": "",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotorPolicyApi.Controllers.MotorPolicyController",
+    "Method": "GetPolicies",
+    "RelativePath": "api/MotorPolicy/main-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

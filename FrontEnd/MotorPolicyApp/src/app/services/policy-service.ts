@@ -14,4 +14,15 @@ export class PolicyService {
       data
     );
   }
+
+  getPolicy(id: number) {
+    return this.http.get('https://localhost:7254/api/MotorPolicy/${id}');
+  }
+
+  getPolicies() {
+    return this.http.get<any[]>(
+      'https://localhost:7254/api/MotorPolicy/main-list'
+    );
+  }
+
 }

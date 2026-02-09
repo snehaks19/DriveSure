@@ -1,4 +1,5 @@
-﻿using MotorPolicyApi.Core.Dtos;
+﻿using Microsoft.EntityFrameworkCore;
+using MotorPolicyApi.Core.Dtos;
 using MotorPolicyApi.Core.Interfaces;
 using MotorPolicyApi.Domain.Entities;
 using MotorPolicyApi.Domain.Interfaces;
@@ -17,6 +18,13 @@ namespace MotorPolicyApi.Core.Services
         {
             _motorPolicyRep = motorPolicyRep;
         }
+
+        public async Task<List<MotorPolicy>> GetAllPolicies()
+        {
+            return await _motorPolicyRep.GetAllPolicies();
+        }
+
+
         public async Task<int> SavePolicy(MotorPolicyDto dto)
         {
             var entity = new MotorPolicy
@@ -50,9 +58,15 @@ namespace MotorPolicyApi.Core.Services
 
 
             entity.PolAssrName = dto.name;
+            entity.PolFmDt = dto.fromDate;
+            entity.PolToDt = dto.toDate;
             entity.PolAssrMobile = dto.mobile;
             entity.PolVehValue = dto.vehValue;
             entity.PolGrossLcPrem = dto.lcPremium;
+            entity.PolGrossFcPrem = dto.fcPremium;
+            entity.PolVehChassisNo = dto.chassisNo;
+            entity.PolVehRegnNo = dto.regNo;
+            entity.PolVehEngineNo = dto.engineNo;
 
             entity.PolUpBy = "SNEHA";
             entity.PolUpDt = DateTime.Now;

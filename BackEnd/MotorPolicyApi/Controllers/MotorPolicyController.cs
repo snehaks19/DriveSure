@@ -15,6 +15,14 @@ namespace MotorPolicyApi.Controllers
             _service = service;
         }
 
+        [HttpGet("main-list")]
+        public async Task<IActionResult> GetPolicies()
+        {
+            var data = await _service.GetAllPolicies();
+            return Ok(data);
+        }
+
+
         [HttpPost]
         public async Task<IActionResult> SavePolicy(MotorPolicyDto policy)
         {
@@ -44,9 +52,9 @@ namespace MotorPolicyApi.Controllers
         }
         [HttpGet]
         [Route("{id}")]
-        public async Task<IActionResult> GetPolicy(int policyId)
+        public async Task<IActionResult> GetPolicy(int id)
         {
-            var data=await _service.GetPolicy(policyId);
+            var data=await _service.GetPolicy(id);
             return Ok(data);
         }
     }

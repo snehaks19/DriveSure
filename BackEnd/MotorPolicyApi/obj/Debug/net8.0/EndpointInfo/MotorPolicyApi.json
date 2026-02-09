@@ -91,6 +91,18 @@
         }
       }
     },
+    "/api/MotorPolicy/main-list": {
+      "get": {
+        "tags": [
+          "MotorPolicy"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/MotorPolicy": {
       "post": {
         "tags": [
@@ -186,19 +198,12 @@
         ],
         "parameters": [
           {
-            "name": "policyId",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
             "name": "id",
             "in": "path",
             "required": true,
             "schema": {
-              "type": "string"
+              "type": "integer",
+              "format": "int32"
             }
           }
         ],

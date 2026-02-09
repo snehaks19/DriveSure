@@ -14,5 +14,6 @@ namespace MotorPolicyApi.Domain.Interfaces
         Task ApprovePolicy(MotorPolicy entity);
         Task DeletePolicy(int polUid);
         Task<MotorPolicy> GetPolicy(int polUid);
+        Task<List<MotorPolicy>> GetAllPolicies();
     }
 }

@@ -10,6 +10,7 @@ namespace MotorPolicyApi.Core.Interfaces
 {
     public interface IMotorPolicyService
     {
+        Task<List<MotorPolicy>> GetAllPolicies();
         Task<int> SavePolicy(MotorPolicyDto policy);
         Task ApprovePolicy(MotorPolicyDto policy);
         Task UpdatePolicy(MotorPolicyDto policy);

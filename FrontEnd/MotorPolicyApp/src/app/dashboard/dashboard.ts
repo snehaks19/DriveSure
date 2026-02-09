@@ -15,7 +15,7 @@ export class Dashboard {
   userType: string = '';
 
   goToPolicy() {
-    this.router.navigate(['/policy']);
+    this.router.navigate(['/policy-list']);
   }
 
   goToClaim() {

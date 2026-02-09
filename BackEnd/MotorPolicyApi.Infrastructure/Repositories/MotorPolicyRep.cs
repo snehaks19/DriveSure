@@ -18,13 +18,28 @@ namespace MotorPolicyApi.Infrastructure.Repositories
         {
             _dbContext = dbContext; 
         }
+        public async Task<List<MotorPolicy>> GetAllPolicies()
+        {
+            return await _dbContext.MotorPolicies.ToListAsync();
+        }
+
 
         public async Task<int> SavePolicy(MotorPolicy entity)
         {
-            entity.PolUid = 2;
-            await _dbContext.MotorPolicies.AddAsync(entity);
-            var rows=await _dbContext.SaveChangesAsync();
-            return rows;
+            try
+            {
+
+                await _dbContext.MotorPolicies.AddAsync(entity);
+                var rows = await _dbContext.SaveChangesAsync();
+                entity.PolNo = "POL" + entity.PolUid.ToString("D4");
+                await _dbContext.SaveChangesAsync(); 
+                return rows;
+            }
+            catch (Exception EX)
+            {
+
+                throw;
+            }
         }
         public async Task UpdatePolicy(MotorPolicy entity)
         {

@@ -1,0 +1,54 @@
+<div class="d-flex mb-3">
+
+  <button class="btn btn-primary me-2"
+          (click)="addPolicy()">
+    Add Policy
+  </button>
+
+  <button class="btn btn-secondary"
+          (click)="goDashboard()">
+    Back to Dashboard
+  </button>
+
+</div>
+
+
+<table class="table table-bordered table-striped">
+
+  <thead>
+    <tr>
+      <th>Policy No</th>
+      <th>Name</th>
+      <th>Mobile</th>
+      <th>Vehicle</th>
+      <th>Premium</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let p of policyList">
+
+      <td>{{ p.polNo }}</td>
+      <td>{{ p.name }}</td>
+      <td>{{ p.mobile }}</td>
+      <td>{{ p.vehMake }} - {{ p.vehModel }}</td>
+      <td>{{ p.fcPremium }}</td>
+
+      <td>
+
+        <button class="btn btn-sm btn-warning me-2"
+                (click)="editPolicy(p.polUid)">
+          Edit
+        </button>
+
+        <button class="btn btn-sm btn-danger">
+          Delete
+        </button>
+
+      </td>
+
+    </tr>
+  </tbody>
+
+</table>

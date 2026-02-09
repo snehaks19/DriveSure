@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotorPolicyApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec3c647352761dc7f51dce6aad664be5a5356460")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1f96bde052472056012f67fe115b9309e3823cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotorPolicyApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotorPolicyApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
