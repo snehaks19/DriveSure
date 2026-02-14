@@ -11,6 +11,7 @@ export const routes: Routes = [
   { path: 'dashboard', component: Dashboard },
   { path: 'policy-list', component: PolicyList },
   { path: 'policy', component: Policy },
+  { path: 'policy/:id', component: Policy },
   { path: 'claim', component: Claim },
   { path: 'survey', component: Survey },
 ];

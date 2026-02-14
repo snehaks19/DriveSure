@@ -2,11 +2,11 @@ import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import { PolicyService } from '../services/policy-service';
 import { CommonModule } from '@angular/common';
-
+import { NgxDatatableModule } from '@swimlane/ngx-datatable';
 
 @Component({
-  selector: 'app-policy-list',
-  imports: [CommonModule],
+  selector: 'app-policy-list',  
+  imports: [CommonModule, NgxDatatableModule],
   templateUrl: './policy-list.html',
   styleUrl: './policy-list.css',
 })
@@ -38,7 +38,7 @@ export class PolicyList {
   }
 
   goDashboard() {
-    this.router.navigate(['/dasboard']);
+    this.router.navigate(['/dashboard']);
   }
 
   //deletePolicy(id: number) {

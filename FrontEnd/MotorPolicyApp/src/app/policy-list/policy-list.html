@@ -17,6 +17,7 @@
 
   <thead>
     <tr>
+      <th style="display:none">Id</th>
       <th>Policy No</th>
       <th>Name</th>
       <th>Mobile</th>
@@ -27,13 +28,15 @@
   </thead>
 
   <tbody>
+
     <tr *ngFor="let p of PolicyList">
 
+      <td style="display:none">{{ p.polUid }}</td>
       <td>{{ p.polNo }}</td>
-      <td>{{ p.name }}</td>
-      <td>{{ p.mobile }}</td>
-      <td>{{ p.vehMake }} - {{ p.vehModel }}</td>
-      <td>{{ p.fcPremium }}</td>
+      <td>{{ p.polAssrName}}</td>
+      <td>{{ p.polAssrMobile }}</td>
+      <td>{{ p.polVehMake }} - {{ p.polVehModel }}</td>
+      <td>{{ p.polGrossFcPrem }}</td>
 
       <td>
 
@@ -49,6 +52,8 @@
       </td>
 
     </tr>
+
   </tbody>
 
 </table>
+<p>Total Records: {{ PolicyList?.length }}</p>

@@ -5,6 +5,8 @@ import { ReactiveFormsModule, FormBuilder, Validators } from '@angular/forms';
 import { Codes } from '../services/codes';
 import { CommonModule } from '@angular/common';
 import { PolicyService } from '../services/policy-service';
+import { Router } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
 
 
 @Component({
@@ -19,17 +21,27 @@ export class Policy implements OnInit {
   ListCurrency: any[] = [];
   ListVehicleMake: any[] = [];
   ListVehicleModel: any[] = [];
-  constructor(private fb: FormBuilder, private codesService: Codes, private policyService: PolicyService) { }
+  constructor(private fb: FormBuilder, private codesService: Codes, private policyService: PolicyService, private router: Router,private route: ActivatedRoute) { }
 
 
 
   ngOnInit() {
-
+     
     this.setUpDates();
     this.loadDropdowns();
+    const id = this.route.snapshot.paramMap.get('id');
+    if (id) {
+      this.loadPolicy(+id);
+    }
   }
 
 
+  loadPolicy(id: number) {
+    this.policyService.getPolicy(id)
+      .subscribe((res: any) => {
+        this.policyForm.patchValue(res);
+      });
+  }
   
   onSubmit() {
 
@@ -114,6 +126,10 @@ export class Policy implements OnInit {
   }
   formatDate(date: Date): string {
     return date.toISOString().split('T')[0];
+  }
+
+  goToListing() {
+    this.router.navigate(['/policy-list']);
   }
 
  

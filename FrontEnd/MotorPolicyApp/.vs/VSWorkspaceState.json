@@ -4,6 +4,7 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\policy",
+    "\\src\\app\\policy-list",
     "\\src\\app\\services"
   ],
   "SelectedNode": "\\src\\app\\policy\\policy.ts",

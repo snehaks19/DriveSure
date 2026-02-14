@@ -15,6 +15,8 @@ export class PolicyService {
     );
   }
 
+
+
   getPolicy(id: number) {
     return this.http.get('https://localhost:7254/api/MotorPolicy/${id}');
   }

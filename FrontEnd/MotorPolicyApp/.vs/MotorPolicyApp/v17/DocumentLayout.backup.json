@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy\\policy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\policy-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\policy-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy-list\\policy-list.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy-list\\policy-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy\\policy.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\policy-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\policy-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\dashboard\\dashboard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy\\policy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy\\policy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\dashboard\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy-list\\policy-list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy\\policy.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy\\policy.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy-list\\policy-list.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\dashboard\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -79,16 +103,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\claim\\claim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\policy\\policy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\dashboard\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,17 +114,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-14T13:12:12.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "policy-list.html",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.html",
+              "RelativeDocumentMoniker": "src\\app\\policy-list\\policy-list.html",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.html",
+              "RelativeToolTip": "src\\app\\policy-list\\policy-list.html",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-09T18:10:58.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "policy-list.spec.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\policy-list\\policy-list.spec.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.spec.ts",
+              "RelativeToolTip": "src\\app\\policy-list\\policy-list.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-14T04:16:57.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "policy-list.ts",
               "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.ts",
               "RelativeDocumentMoniker": "src\\app\\policy-list\\policy-list.ts",
               "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.ts",
               "RelativeToolTip": "src\\app\\policy-list\\policy-list.ts",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-09T18:14:16.742Z",
               "EditorCaption": ""
@@ -116,51 +170,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "policy-list.html",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.html",
-              "RelativeDocumentMoniker": "src\\app\\policy-list\\policy-list.html",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.html",
-              "RelativeToolTip": "src\\app\\policy-list\\policy-list.html",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwCgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-09T18:10:58.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "policy.html",
               "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.html",
               "RelativeDocumentMoniker": "src\\app\\policy\\policy.html",
               "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.html",
               "RelativeToolTip": "src\\app\\policy\\policy.html",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-06T09:51:30.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "login.ts",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.ts",
-              "RelativeDocumentMoniker": "src\\app\\login\\login.ts",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.ts",
-              "RelativeToolTip": "src\\app\\login\\login.ts",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwBAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-06T09:37:34.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "policy.ts",
               "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.ts",
               "RelativeDocumentMoniker": "src\\app\\policy\\policy.ts",
               "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.ts",
               "RelativeToolTip": "src\\app\\policy\\policy.ts",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-06T10:10:13.997Z",
               "EditorCaption": ""
@@ -168,175 +196,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "codes.ts",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\codes.ts",
-              "RelativeDocumentMoniker": "src\\app\\services\\codes.ts",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\codes.ts",
-              "RelativeToolTip": "src\\app\\services\\codes.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-07T05:26:39.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T16:15:30.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dashboard.html",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.html",
-              "RelativeDocumentMoniker": "src\\app\\dashboard\\dashboard.html",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.html",
-              "RelativeToolTip": "src\\app\\dashboard\\dashboard.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-06T08:49:27.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dashboard.ts",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.ts",
-              "RelativeDocumentMoniker": "src\\app\\dashboard\\dashboard.ts",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.ts",
-              "RelativeToolTip": "src\\app\\dashboard\\dashboard.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-06T16:12:03.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "policy-service.ts",
               "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\policy-service.ts",
               "RelativeDocumentMoniker": "src\\app\\services\\policy-service.ts",
               "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\policy-service.ts",
               "RelativeToolTip": "src\\app\\services\\policy-service.ts",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswBcAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA0wA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-07T15:09:08.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "login.html",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.html",
-              "RelativeDocumentMoniker": "src\\app\\login\\login.html",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.html",
-              "RelativeToolTip": "src\\app\\login\\login.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-06T09:51:36.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "app.ts",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.ts",
-              "RelativeDocumentMoniker": "src\\app\\app.ts",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.ts",
-              "RelativeToolTip": "src\\app\\app.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-06T12:57:16.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "app.routes.ts",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.routes.ts",
-              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.routes.ts",
-              "RelativeToolTip": "src\\app\\app.routes.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-06T16:15:30.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "login.spec.ts",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.spec.ts",
-              "RelativeDocumentMoniker": "src\\app\\login\\login.spec.ts",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.spec.ts",
-              "RelativeToolTip": "src\\app\\login\\login.spec.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-06T14:39:15.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "auth.spec.ts",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\auth.spec.ts",
-              "RelativeDocumentMoniker": "src\\app\\services\\auth.spec.ts",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\auth.spec.ts",
-              "RelativeToolTip": "src\\app\\services\\auth.spec.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-06T14:39:17.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "auth.ts",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\auth.ts",
-              "RelativeDocumentMoniker": "src\\app\\services\\auth.ts",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\auth.ts",
-              "RelativeToolTip": "src\\app\\services\\auth.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-06T14:39:18.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "login.css",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.css",
-              "RelativeDocumentMoniker": "src\\app\\login\\login.css",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.css",
-              "RelativeToolTip": "src\\app\\login\\login.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-06T14:40:49.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "app.html",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.html",
-              "RelativeDocumentMoniker": "src\\app\\app.html",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.html",
-              "RelativeToolTip": "src\\app\\app.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-06T14:39:07.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "claim.html",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\claim\\claim.html",
-              "RelativeDocumentMoniker": "src\\app\\claim\\claim.html",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\claim\\claim.html",
-              "RelativeToolTip": "src\\app\\claim\\claim.html",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-06T10:58:46.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "policy.css",
               "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.css",
               "RelativeDocumentMoniker": "src\\app\\policy\\policy.css",
@@ -344,12 +228,193 @@
               "RelativeToolTip": "src\\app\\policy\\policy.css",
               "ViewState": "AgIAAA8AAAAAAAAAAAAcwCYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-06T10:08:33.915Z",
+              "WhenOpened": "2026-02-06T10:08:33.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "angular.json",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-06T09:04:28.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "policy.spec.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\policy\\policy.spec.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy\\policy.spec.ts",
+              "RelativeToolTip": "src\\app\\policy\\policy.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-14T04:20:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dashboard.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.ts",
+              "RelativeDocumentMoniker": "src\\app\\dashboard\\dashboard.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.ts",
+              "RelativeToolTip": "src\\app\\dashboard\\dashboard.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-06T16:12:03.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "policy-list.css",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.css",
+              "RelativeDocumentMoniker": "src\\app\\policy-list\\policy-list.css",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\policy-list\\policy-list.css",
+              "RelativeToolTip": "src\\app\\policy-list\\policy-list.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-14T04:20:46.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.html",
+              "RelativeDocumentMoniker": "src\\app\\dashboard\\dashboard.html",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.html",
+              "RelativeToolTip": "src\\app\\dashboard\\dashboard.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-06T08:49:27.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "codes.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\codes.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\codes.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\codes.ts",
+              "RelativeToolTip": "src\\app\\services\\codes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-07T05:26:39.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "login.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.ts",
+              "RelativeDocumentMoniker": "src\\app\\login\\login.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.ts",
+              "RelativeToolTip": "src\\app\\login\\login.ts",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwBAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-06T09:37:34.441Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "login.html",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.html",
+              "RelativeDocumentMoniker": "src\\app\\login\\login.html",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.html",
+              "RelativeToolTip": "src\\app\\login\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-06T09:51:36.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "app.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.ts",
+              "RelativeToolTip": "src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-06T12:57:16.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "login.spec.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\login\\login.spec.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.spec.ts",
+              "RelativeToolTip": "src\\app\\login\\login.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-06T14:39:15.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "auth.spec.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\auth.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\auth.spec.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\auth.spec.ts",
+              "RelativeToolTip": "src\\app\\services\\auth.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-06T14:39:17.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "auth.ts",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\auth.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\auth.ts",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\services\\auth.ts",
+              "RelativeToolTip": "src\\app\\services\\auth.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-06T14:39:18.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.css",
+              "RelativeDocumentMoniker": "src\\app\\login\\login.css",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\login\\login.css",
+              "RelativeToolTip": "src\\app\\login\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-06T14:40:49.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.html",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "src\\app\\app.html",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\app.html",
+              "RelativeToolTip": "src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-06T14:39:07.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "claim.html",
+              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\claim\\claim.html",
+              "RelativeDocumentMoniker": "src\\app\\claim\\claim.html",
+              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\claim\\claim.html",
+              "RelativeToolTip": "src\\app\\claim\\claim.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-06T10:58:46.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "claim.css",
               "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\claim\\claim.css",
               "RelativeDocumentMoniker": "src\\app\\claim\\claim.css",
@@ -357,25 +422,11 @@
               "RelativeToolTip": "src\\app\\claim\\claim.css",
               "ViewState": "AgIAACQAAAAAAAAAAAAcwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-06T10:58:43.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T10:58:43.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "angular.json",
-              "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\angular.json",
-              "RelativeDocumentMoniker": "angular.json",
-              "ToolTip": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\angular.json",
-              "RelativeToolTip": "angular.json",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwCIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-06T09:04:28.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "dashboard.css",
               "DocumentMoniker": "D:\\Works\\Projects\\Motor Insurance Portal\\FrontEnd\\MotorPolicyApp\\src\\app\\dashboard\\dashboard.css",
               "RelativeDocumentMoniker": "src\\app\\dashboard\\dashboard.css",
@@ -383,8 +434,7 @@
               "RelativeToolTip": "src\\app\\dashboard\\dashboard.css",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-06T08:59:04.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T08:59:04.755Z"
             }
           ]
         }
